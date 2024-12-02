@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        jaro: ['var(--font-jaro)'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
