@@ -125,8 +125,8 @@ export default function Home() {
 
         {/* Content */}
         <div className="relative z-10 text-center px-6">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 text-white relative [text-shadow:_2px_2px_4px_rgb(0_0_0_/_40%)]">
-            <span className="relative z-10">AI Layer on Bitcoin</span>
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 text-white">
+            AI Layer on Bitcoin
           </h1>
           <p className="text-xl md:text-2xl mb-12 text-white/90">
             Powered by FHE and Native ZK Proofs
